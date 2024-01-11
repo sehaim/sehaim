@@ -19,7 +19,7 @@
 
 ### 💻 Stacks
 
-채울 예정
+![공부](./assets/introduction2.jpeg)
 
 ---
 
@@ -33,6 +33,3 @@
 ### 📞 Contact
 - phone | 010-3722-9138
 - email | seha3722@gmail.com
-
-
-![공부](./assets/introduction2.jpeg)
