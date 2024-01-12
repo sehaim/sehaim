@@ -4,18 +4,24 @@
   
 - 😀 MBTI | ISFP
 
-- ❤️ Like
-  - 집
-  - 음악 감상, 유튜브 보기
+- 🙃 TMI
+  - ❤️ Like
+    - 집
+    - 음악 감상, 유튜브 보기
+    - Lauv, Post Malone
+    - 회, 일식
+
+  - 🚍 통학 시간 50분 ~ 1시간 20분
+  
 ---
 
 ### 📚 School
-
-- 삼성 청년 SW 아카데미 (2024.01 ~ )
   
 - 전공
   - 건설시스템공학
   - 전자IT미디어공학 (복)
+
+- 삼성 청년 SW 아카데미 (2024.01 ~ )
 
 ---
 
@@ -36,6 +42,9 @@
 - KIST Internship (2022.02 ~ 2022.09)
   - Quantum Center
   - HW engineer
+
+- Tving (2023.10 ~ 2023.12)
+  - Operation Support Team
 
 ---
 
