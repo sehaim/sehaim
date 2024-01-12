@@ -4,7 +4,9 @@
   
 - 😀 MBTI | ISFP
 
-- 🎧 취미ㅣ 음악 감상, 유튜브 보기
+- ❤️ Like
+  - 집
+  - 음악 감상, 유튜브 보기
 ---
 
 ### 📚 School
@@ -23,9 +25,16 @@
 
 ---
 
+### ⏰ Goal
+
+- 매일 배운 내용 복습
+- 1학기 안에 SWEA A형 취득
+- 구체적인 진로 정하기
+
 ### 💼 Work
 
-- KIST Intern (2022.02 ~ 2022.09)
+- KIST Internship (2022.02 ~ 2022.09)
+  - Quantum Center
   - HW engineer
 
 ---
