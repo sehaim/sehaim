@@ -28,7 +28,6 @@
 
 ### 💻 Stacks
 
-![공부](./assets/introduction2.jpeg)
 
 ---
 
