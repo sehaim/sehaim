@@ -1,5 +1,5 @@
 ### 👋 Seha Im
-- **Seoul National University of Science and Technology** - Construction System Enginnering / Department of Electronic and IT Media Engineering (2017.03 ~ 2023.08)
+- **Seoul National University of Science and Technology** - Department of Construction System Enginnering / Electronic and IT Media Engineering (2017.03 ~ 2023.08)
 - **Samsung SW Academy For Youth 11th** - Java Coding Track (2024.01 ~ 2024.12)
 
 ---
@@ -21,6 +21,6 @@
 ---
 <br>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=sehaim&show_icons=true&theme=radical" width=400px/> &nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=sehaim&show_icons=true&theme=onedark" width=400px/> &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehaim&layout=compact&langs_count=10" width=234px/>
 </div>
