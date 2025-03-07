@@ -13,7 +13,7 @@
  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?&logo=vue.js&logoColor=white"/>
 
 #### DataBase
-<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
 
 #### Management
 <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FCA121?&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white"/> 
