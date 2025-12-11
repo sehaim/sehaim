@@ -1,6 +1,7 @@
 ### 👋 Seha Im
-- **Seoul National University of Science and Technology** - Department of Construction System Enginnering / Electronic and IT Media Engineering (2017.03 ~ 2023.08)
-- **Samsung SW Academy For Youth 11th** - Java Coding Track (2024.01 ~ 2024.12)
+- **SeoulTech(Seoul National University of Science and Technology)** - Department of Construction System Enginnering / Electronic and IT Media Engineering (2017.03 ~ 2023.08)
+- **SSAFY(Samsung SW Academy For Youth) 11th** - Java Coding Track (2024.01 ~ 2024.12)
+- **SKALA(SK AI Leader Academy)** - Cloud Program (2026.01 ~)
 
 ---
 
