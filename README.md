@@ -22,6 +22,6 @@
 ---
 <br>
 <div>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sehaim&show_icons=true&theme=onedark" width=400px/> &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sehaim&layout=compact&langs_count=10" width=234px/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sehaim&show_icons=true&theme=onedark" height=200px/> &nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sehaim&layout=compact&langs_count=10" height=200px/>
 </div>
