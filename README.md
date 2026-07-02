@@ -16,6 +16,9 @@
 #### DataBase
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
 
+#### DevOps & Cloud
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+
 #### Management
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
 
